@@ -1,8 +1,8 @@
 {
     "name": "backend-task",
     "version": "0.0.1",
-    "description": "",
-    "author": "",
+    "description": "Small backend service for storing and retrieving users registration data",
+    "author": "Luka",
     "private": true,
     "license": "UNLICENSED",
     "scripts": {
